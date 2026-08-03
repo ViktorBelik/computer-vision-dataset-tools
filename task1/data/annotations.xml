@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>331</id>
+      <name>LIGHTS 1k</name>
+      <size>1000</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2022-03-29 18:56:11.229553+00:00</created>
+      <updated>2022-03-30 19:42:16.907197+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>999</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2650</id>
+          <start>800</start>
+          <stop>999</stop>
+          <url>http://cvat.dl/?id=2650</url>
+        </segment>
+        <segment>
+          <id>2649</id>
+          <start>600</start>
+          <stop>799</stop>
+          <url>http://cvat.dl/?id=2649</url>
+        </segment>
+        <segment>
+          <id>2648</id>
+          <start>400</start>
+          <stop>599</stop>
+          <url>http://cvat.dl/?id=2648</url>
+        </segment>
+        <segment>
+          <id>2647</id>
+          <start>200</start>
+          <stop>399</stop>
+          <url>http://cvat.dl/?id=2647</url>
+        </segment>
+        <segment>
+          <id>2646</id>
+          <start>0</start>
+          <stop>199</stop>
+          <url>http://cvat.dl/?id=2646</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dmitriy</username>
+        <email>dmitriy@mail.ru</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Основной</name>
+          <color>#3df53d</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Дублирующий</name>
+          <color>#ff00cc</color>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Светофор на другой дороге</name>
+          <color>#ffcc33</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2022-04-07 18:34:09.675939+00:00</dumped>
+  </meta>
+  <image id="999" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_5450723208171.jpg" width="1280" height="804">
+  </image>
+  <image id="998" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_4808981195065.jpg" width="1280" height="804">
+  </image>
+  <image id="997" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_3358831630753.jpg" width="1280" height="804">
+  </image>
+  <image id="996" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585888280.jpg" width="1920" height="1206">
+  </image>
+  <image id="995" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585885213.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="143.58" ytl="454.21" xbr="182.76" ybr="549.38" z_order="0">
+    </box>
+  </image>
+  <image id="994" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585878155.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="693.79" ytl="612.00" xbr="706.28" ybr="645.71" z_order="0">
+    </box>
+  </image>
+  <image id="993" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585816127.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="930.55" ytl="590.01" xbr="945.82" ybr="635.81" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="647.00" ytl="642.60" xbr="654.84" ybr="663.81" z_order="0">
+    </box>
+  </image>
+  <image id="992" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585804068.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="739.64" ytl="613.56" xbr="752.37" ybr="647.88" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="423.52" ytl="649.05" xbr="432.63" ybr="668.60" z_order="0">
+    </box>
+  </image>
+  <image id="991" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585802499.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="995.28" ytl="627.67" xbr="1006.08" ybr="656.60" z_order="0">
+    </box>
+  </image>
+  <image id="990" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585799901.jpg" width="1920" height="1206">
+  </image>
+  <image id="989" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585797806.jpg" width="1920" height="1206">
+  </image>
+  <image id="988" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585794204.jpg" width="1920" height="1206">
+  </image>
+  <image id="987" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585793139.jpg" width="1920" height="1206">
+  </image>
+  <image id="986" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585792078.jpg" width="1920" height="1206">
+  </image>
+  <image id="985" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585791009.jpg" width="1920" height="1206">
+  </image>
+  <image id="984" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585790477.jpg" width="1920" height="1206">
+  </image>
+  <image id="983" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585789413.jpg" width="1920" height="1206">
+  </image>
+  <image id="982" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585788879.jpg" width="1920" height="1206">
+  </image>
+  <image id="981" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585788348.jpg" width="1920" height="1206">
+  </image>
+  <image id="980" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585779987.jpg" width="1920" height="1206">
+  </image>
+  <image id="979" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585777889.jpg" width="1920" height="1206">
+  </image>
+  <image id="978" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585766368.jpg" width="1920" height="1206">
+  </image>
+  <image id="977" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585765866.jpg" width="1920" height="1206">
+  </image>
+  <image id="976" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585765337.jpg" width="1920" height="1206">
+  </image>
+  <image id="975" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585764835.jpg" width="1920" height="1206">
+  </image>
+  <image id="974" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585762208.jpg" width="1920" height="1206">
+  </image>
+  <image id="973" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585761674.jpg" width="1920" height="1206">
+  </image>
+  <image id="972" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585761166.jpg" width="1920" height="1206">
+  </image>
+  <image id="971" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585756979.jpg" width="1920" height="1206">
+  </image>
+  <image id="970" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585753349.jpg" width="1920" height="1206">
+  </image>
+  <image id="969" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585751783.jpg" width="1920" height="1206">
+  </image>
+  <image id="968" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585750748.jpg" width="1920" height="1206">
+  </image>
+  <image id="967" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585708592.jpg" width="1920" height="1206">
+  </image>
+  <image id="966" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585700368.jpg" width="1920" height="1206">
+  </image>
+  <image id="965" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585699337.jpg" width="1920" height="1206">
+  </image>
+  <image id="964" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585680224.jpg" width="1920" height="1206">
+  </image>
+  <image id="963" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585678189.jpg" width="1920" height="1206">
+  </image>
+  <image id="962" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585677158.jpg" width="1920" height="1206">
+  </image>
+  <image id="961" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585675131.jpg" width="1920" height="1206">
+  </image>
+  <image id="960" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585651521.jpg" width="1920" height="1206">
+  </image>
+  <image id="959" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585645388.jpg" width="1920" height="1206">
+  </image>
+  <image id="958" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585644361.jpg" width="1920" height="1206">
+  </image>
+  <image id="957" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585643324.jpg" width="1920" height="1206">
+  </image>
+  <image id="956" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1647585639228.jpg" width="1920" height="1206">
+  </image>
+  <image id="955" name="ftp/RD/1000_samples/fb783e93-ab1b-4869-bd57-349905cfb74b_1127511745817.jpg" width="1280" height="804">
+  </image>
+  <image id="954" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_9206203610446.jpg" width="1280" height="804">
+  </image>
+  <image id="953" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_8700694520180.jpg" width="1280" height="804">
+  </image>
+  <image id="952" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_6867495809595.jpg" width="1280" height="804">
+  </image>
+  <image id="868" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597026904.jpg" width="1920" height="1206">
+  </image>
+  <image id="867" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597023705.jpg" width="1920" height="1206">
+  </image>
+  <image id="866" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597023437.jpg" width="1920" height="1206">
+  </image>
+  <image id="865" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597007205.jpg" width="1920" height="1206">
+  </image>
+  <image id="864" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597003040.jpg" width="1920" height="1206">
+  </image>
+  <image id="863" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597002004.jpg" width="1920" height="1206">
+  </image>
+  <image id="862" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597001474.jpg" width="1920" height="1206">
+  </image>
+  <image id="861" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597000440.jpg" width="1920" height="1206">
+  </image>
+  <image id="860" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596997305.jpg" width="1920" height="1206">
+  </image>
+  <image id="859" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596995706.jpg" width="1920" height="1206">
+  </image>
+  <image id="858" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596991606.jpg" width="1920" height="1206">
+  </image>
+  <image id="857" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596988509.jpg" width="1920" height="1206">
+  </image>
+  <image id="856" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596986073.jpg" width="1920" height="1206">
+  </image>
+  <image id="855" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596944047.jpg" width="1920" height="1206">
+  </image>
+  <image id="854" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596937879.jpg" width="1920" height="1206">
+  </image>
+  <image id="853" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596935818.jpg" width="1920" height="1206">
+  </image>
+  <image id="852" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596932779.jpg" width="1920" height="1206">
+  </image>
+  <image id="851" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596930717.jpg" width="1920" height="1206">
+  </image>
+  <image id="850" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596928684.jpg" width="1920" height="1206">
+  </image>
+  <image id="849" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596925649.jpg" width="1920" height="1206">
+  </image>
+  <image id="848" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596923648.jpg" width="1920" height="1206">
+  </image>
+  <image id="847" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596829292.jpg" width="1920" height="1206">
+  </image>
+  <image id="846" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596828791.jpg" width="1920" height="1206">
+  </image>
+  <image id="845" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596827726.jpg" width="1920" height="1206">
+  </image>
+  <image id="844" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596825092.jpg" width="1920" height="1206">
+  </image>
+  <image id="843" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596822994.jpg" width="1920" height="1206">
+  </image>
+  <image id="842" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596822460.jpg" width="1920" height="1206">
+  </image>
+  <image id="841" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596812294.jpg" width="1920" height="1206">
+  </image>
+  <image id="840" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647596806260.jpg" width="1920" height="1206">
+  </image>
+  <image id="839" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_8797662243742.jpg" width="1280" height="804">
+  </image>
+  <image id="838" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_8023550846897.jpg" width="1280" height="804">
+  </image>
+  <image id="837" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_7256858164525.jpg" width="1280" height="804">
+  </image>
+  <image id="836" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_6529124750514.jpg" width="1280" height="804">
+  </image>
+  <image id="835" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_6396036080120.jpg" width="1280" height="804">
+  </image>
+  <image id="834" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_5208958162107.jpg" width="1280" height="804">
+  </image>
+  <image id="833" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_4500127135227.jpg" width="1280" height="804">
+  </image>
+  <image id="832" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584771097.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="489.36" ytl="568.83" xbr="516.02" ybr="638.81" z_order="0">
+    </box>
+  </image>
+  <image id="831" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584768532.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1400.55" ytl="493.32" xbr="1438.94" ybr="585.45" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="660.26" ytl="611.57" xbr="675.08" ybr="649.50" z_order="0">
+    </box>
+  </image>
+  <image id="830" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584765927.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1146.49" ytl="612.62" xbr="1161.75" ybr="649.85" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="771.62" ytl="645.95" xbr="783.00" ybr="670.28" z_order="0">
+    </box>
+  </image>
+  <image id="829" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584764874.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="800.48" ytl="651.87" xbr="809.87" ybr="672.63" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1111.87" ytl="628.19" xbr="1124.14" ybr="658.76" z_order="0">
+    </box>
+  </image>
+  <image id="828" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584763830.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1091.79" ytl="642.18" xbr="1101.83" ybr="667.85" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="824.20" ytl="660.08" xbr="832.26" ybr="678.83" z_order="0">
+    </box>
+  </image>
+  <image id="827" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584762267.jpg" width="1920" height="1206">
+  </image>
+  <image id="826" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584751334.jpg" width="1920" height="1206">
+  </image>
+  <image id="825" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584750303.jpg" width="1920" height="1206">
+  </image>
+  <image id="824" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584741182.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="621.74" ytl="636.15" xbr="636.47" ybr="670.08" z_order="0">
+    </box>
+  </image>
+  <image id="823" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584738135.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="690.48" ytl="654.21" xbr="701.20" ybr="679.66" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1335.97" ytl="484.55" xbr="1368.63" ybr="582.52" z_order="0">
+    </box>
+  </image>
+  <image id="822" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584700742.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1192.05" ytl="548.67" xbr="1217.04" ybr="613.65" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="721.47" ytl="643.77" xbr="730.15" ybr="667.17" z_order="0">
+    </box>
+  </image>
+  <image id="821" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584698738.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="740.73" ytl="643.86" xbr="748.22" ybr="664.91" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1141.00" ytl="576.86" xbr="1159.96" ybr="627.00" z_order="0">
+    </box>
+  </image>
+  <image id="820" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584695675.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1077.05" ytl="615.89" xbr="1088.65" ybr="649.14" z_order="0">
+    </box>
+  </image>
+  <image id="819" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584694631.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1056.45" ytl="619.57" xbr="1067.98" ybr="648.21" z_order="0">
+    </box>
+  </image>
+  <image id="818" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584694113.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1048.43" ytl="621.59" xbr="1057.92" ybr="647.63" z_order="0">
+    </box>
+  </image>
+  <image id="817" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584690448.jpg" width="1920" height="1206">
+  </image>
+  <image id="816" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584689931.jpg" width="1920" height="1206">
+  </image>
+  <image id="815" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584687337.jpg" width="1920" height="1206">
+  </image>
+  <image id="814" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584684733.jpg" width="1920" height="1206">
+  </image>
+  <image id="813" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584684217.jpg" width="1920" height="1206">
+  </image>
+  <image id="812" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584682157.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="28.01" ytl="432.56" xbr="85.33" ybr="557.86" z_order="0">
+    </box>
+  </image>
+  <image id="811" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584677925.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1156.15" ytl="503.98" xbr="1185.08" ybr="578.81" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="751.62" ytl="641.89" xbr="763.45" ybr="668.01" z_order="0">
+    </box>
+  </image>
+  <image id="810" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584677420.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1110.10" ytl="542.76" xbr="1132.31" ybr="602.46" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="766.66" ytl="643.34" xbr="778.49" ybr="668.34" z_order="0">
+    </box>
+  </image>
+  <image id="809" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584675866.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1039.43" ytl="609.35" xbr="1054.22" ybr="644.71" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="800.88" ytl="658.97" xbr="807.85" ybr="678.19" z_order="0">
+    </box>
+  </image>
+  <image id="808" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584667574.jpg" width="1920" height="1206">
+  </image>
+  <image id="807" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584662346.jpg" width="1920" height="1206">
+  </image>
+  <image id="806" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584661840.jpg" width="1920" height="1206">
+  </image>
+  <image id="805" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584654581.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="567.30" ytl="592.58" xbr="586.88" ybr="642.40" z_order="0">
+    </box>
+  </image>
+  <image id="804" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584654074.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="620.73" ytl="608.13" xbr="636.80" ybr="649.27" z_order="0">
+    </box>
+  </image>
+  <image id="803" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584651423.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="750.85" ytl="644.40" xbr="760.33" ybr="667.65" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1806.71" ytl="173.24" xbr="1920.00" ybr="425.98" z_order="0">
+    </box>
+  </image>
+  <image id="802" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584650915.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1407.78" ytl="421.18" xbr="1455.80" ybr="545.14" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="754.71" ytl="650.63" xbr="764.08" ybr="673.39" z_order="0">
+    </box>
+  </image>
+  <image id="801" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584650385.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1254.06" ytl="504.61" xbr="1286.72" ybr="593.92" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="751.55" ytl="656.38" xbr="760.30" ybr="676.65" z_order="0">
+    </box>
+  </image>
+  <image id="800" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584647792.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1068.56" ytl="619.57" xbr="1082.44" ybr="653.90" z_order="0">
+    </box>
+  </image>
+  <image id="799" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584642030.jpg" width="1920" height="1206">
+  </image>
+  <image id="798" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584627164.jpg" width="1920" height="1206">
+  </image>
+  <image id="797" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584615144.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="743.49" ytl="604.45" xbr="760.15" ybr="647.96" z_order="0">
+    </box>
+  </image>
+  <image id="796" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584569864.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1076.33" ytl="612.37" xbr="1089.19" ybr="642.26" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="863.88" ytl="643.87" xbr="871.27" ybr="663.80" z_order="0">
+    </box>
+  </image>
+  <image id="795" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584568814.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1060.98" ytl="625.71" xbr="1071.69" ybr="652.27" z_order="0">
+    </box>
+  </image>
+  <image id="794" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584547470.jpg" width="1920" height="1206">
+  </image>
+  <image id="793" name="ftp/RD/1000_samples/e09bf987-6554-4a63-b294-46b3d4624f35_1647584539387.jpg" width="1920" height="1206">
+  </image>
+  <image id="792" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_9274424279114.jpg" width="1280" height="804">
+  </image>
+  <image id="791" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_8839023390821.jpg" width="1280" height="804">
+  </image>
+  <image id="790" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_7284010766663.jpg" width="1280" height="804">
+  </image>
+  <image id="789" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_6888709709290.jpg" width="1280" height="804">
+  </image>
+  <image id="788" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_6814453684328.jpg" width="1280" height="804">
+  </image>
+  <image id="787" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_5652541016322.jpg" width="1280" height="804">
+  </image>
+  <image id="786" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_2842339312557.jpg" width="1280" height="804">
+  </image>
+  <image id="785" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_2341024361415.jpg" width="1280" height="804">
+  </image>
+  <image id="784" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_2041878307095.jpg" width="1280" height="804">
+  </image>
+  <image id="783" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1840179889287.jpg" width="1280" height="804">
+  </image>
+  <image id="782" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597838091.jpg" width="1920" height="1206">
+  </image>
+  <image id="781" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597825938.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1296.13" ytl="382.18" xbr="1345.08" ybr="528.06" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="466.45" ytl="610.32" xbr="489.59" ybr="667.40" z_order="0">
+    </box>
+  </image>
+  <image id="780" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597821958.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="962.95" ytl="602.38" xbr="986.27" ybr="661.03" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="548.79" ytl="655.30" xbr="564.99" ybr="693.24" z_order="0">
+    </box>
+  </image>
+  <image id="779" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597807227.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="631.49" ytl="686.73" xbr="641.72" ybr="712.03" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="888.85" ytl="666.27" xbr="901.70" ybr="700.02" z_order="0">
+    </box>
+  </image>
+  <image id="778" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597795695.jpg" width="1920" height="1206">
+  </image>
+  <image id="777" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597788530.jpg" width="1920" height="1206">
+  </image>
+  <image id="776" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597787496.jpg" width="1920" height="1206">
+  </image>
+  <image id="775" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597786495.jpg" width="1920" height="1206">
+  </image>
+  <image id="774" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597785963.jpg" width="1920" height="1206">
+  </image>
+  <image id="773" name="ftp/RD/1000_samples/dfa35738-a2e1-43ea-aac5-a7da3e740718_1647597784029.jpg" width="1920" height="1206">
+  </image>
+  <image id="772" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_8244526413798.jpg" width="1280" height="804">
+  </image>
+  <image id="771" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_5236369194186.jpg" width="1280" height="804">
+  </image>
+  <image id="770" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_5132214184059.jpg" width="1280" height="804">
+  </image>
+  <image id="769" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_4227119763660.jpg" width="1280" height="804">
+  </image>
+  <image id="768" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_2456921414487.jpg" width="1280" height="804">
+  </image>
+  <image id="767" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596708942.jpg" width="1920" height="1206">
+  </image>
+  <image id="766" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596706007.jpg" width="1920" height="1206">
+  </image>
+  <image id="765" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596704974.jpg" width="1920" height="1206">
+  </image>
+  <image id="764" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596698874.jpg" width="1920" height="1206">
+  </image>
+  <image id="763" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596690807.jpg" width="1920" height="1206">
+  </image>
+  <image id="762" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596689775.jpg" width="1920" height="1206">
+  </image>
+  <image id="761" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596634622.jpg" width="1920" height="1206">
+  </image>
+  <image id="760" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596632619.jpg" width="1920" height="1206">
+  </image>
+  <image id="759" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596620417.jpg" width="1920" height="1206">
+  </image>
+  <image id="758" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596606088.jpg" width="1920" height="1206">
+  </image>
+  <image id="757" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596600960.jpg" width="1920" height="1206">
+  </image>
+  <image id="756" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596596221.jpg" width="1920" height="1206">
+  </image>
+  <image id="755" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596572323.jpg" width="1920" height="1206">
+  </image>
+  <image id="754" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596564157.jpg" width="1920" height="1206">
+  </image>
+  <image id="753" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596546927.jpg" width="1920" height="1206">
+  </image>
+  <image id="752" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596530962.jpg" width="1920" height="1206">
+  </image>
+  <image id="751" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596517196.jpg" width="1920" height="1206">
+  </image>
+  <image id="750" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596509963.jpg" width="1920" height="1206">
+  </image>
+  <image id="749" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596506996.jpg" width="1920" height="1206">
+  </image>
+  <image id="748" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596504964.jpg" width="1920" height="1206">
+  </image>
+  <image id="747" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596417011.jpg" width="1920" height="1206">
+  </image>
+  <image id="746" name="ftp/RD/1000_samples/c89d39ef-c4f5-4271-87a1-4bff5b0f2c6d_1647596410964.jpg" width="1920" height="1206">
+  </image>
+  <image id="745" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_7053135239449.jpg" width="1280" height="804">
+  </image>
+  <image id="744" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_6275447265575.jpg" width="1280" height="804">
+  </image>
+  <image id="743" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_4079061555207.jpg" width="1280" height="804">
+  </image>
+  <image id="742" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561262171.jpg" width="1920" height="1206">
+  </image>
+  <image id="741" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561260172.jpg" width="1920" height="1206">
+  </image>
+  <image id="740" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561259142.jpg" width="1920" height="1206">
+  </image>
+  <image id="739" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561258105.jpg" width="1920" height="1206">
+  </image>
+  <image id="738" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561257104.jpg" width="1920" height="1206">
+  </image>
+  <image id="737" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561255038.jpg" width="1920" height="1206">
+  </image>
+  <image id="736" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561252439.jpg" width="1920" height="1206">
+  </image>
+  <image id="735" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561248772.jpg" width="1920" height="1206">
+  </image>
+  <image id="734" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561248241.jpg" width="1920" height="1206">
+  </image>
+  <image id="733" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561240440.jpg" width="1920" height="1206">
+  </image>
+  <image id="732" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561238341.jpg" width="1920" height="1206">
+  </image>
+  <image id="731" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561235241.jpg" width="1920" height="1206">
+  </image>
+  <image id="730" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561234175.jpg" width="1920" height="1206">
+  </image>
+  <image id="729" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561232613.jpg" width="1920" height="1206">
+  </image>
+  <image id="728" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561211210.jpg" width="1920" height="1206">
+  </image>
+  <image id="727" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561210175.jpg" width="1920" height="1206">
+  </image>
+  <image id="726" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561209345.jpg" width="1920" height="1206">
+  </image>
+  <image id="725" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561208311.jpg" width="1920" height="1206">
+  </image>
+  <image id="724" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561205243.jpg" width="1920" height="1206">
+  </image>
+  <image id="723" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561198110.jpg" width="1920" height="1206">
+  </image>
+  <image id="722" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561197078.jpg" width="1920" height="1206">
+  </image>
+  <image id="721" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561193945.jpg" width="1920" height="1206">
+  </image>
+  <image id="720" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561191812.jpg" width="1920" height="1206">
+  </image>
+  <image id="719" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561191311.jpg" width="1920" height="1206">
+  </image>
+  <image id="718" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561190780.jpg" width="1920" height="1206">
+  </image>
+  <image id="717" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561190245.jpg" width="1920" height="1206">
+  </image>
+  <image id="716" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561188151.jpg" width="1920" height="1206">
+  </image>
+  <image id="715" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561177254.jpg" width="1920" height="1206">
+  </image>
+  <image id="714" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561141718.jpg" width="1920" height="1206">
+  </image>
+  <image id="713" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561139166.jpg" width="1920" height="1206">
+  </image>
+  <image id="712" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561134054.jpg" width="1920" height="1206">
+  </image>
+  <image id="711" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561131455.jpg" width="1920" height="1206">
+  </image>
+  <image id="710" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561130953.jpg" width="1920" height="1206">
+  </image>
+  <image id="709" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561128886.jpg" width="1920" height="1206">
+  </image>
+  <image id="708" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561127853.jpg" width="1920" height="1206">
+  </image>
+  <image id="707" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561125753.jpg" width="1920" height="1206">
+  </image>
+  <image id="706" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561124155.jpg" width="1920" height="1206">
+  </image>
+  <image id="705" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561123122.jpg" width="1920" height="1206">
+  </image>
+  <image id="704" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561122621.jpg" width="1920" height="1206">
+  </image>
+  <image id="703" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561108456.jpg" width="1920" height="1206">
+  </image>
+  <image id="702" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561107421.jpg" width="1920" height="1206">
+  </image>
+  <image id="701" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561105855.jpg" width="1920" height="1206">
+  </image>
+  <image id="700" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561083124.jpg" width="1920" height="1206">
+  </image>
+  <image id="699" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561082596.jpg" width="1920" height="1206">
+  </image>
+  <image id="698" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561080493.jpg" width="1920" height="1206">
+  </image>
+  <image id="697" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561017133.jpg" width="1920" height="1206">
+  </image>
+  <image id="696" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561015031.jpg" width="1920" height="1206">
+  </image>
+  <image id="695" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561011334.jpg" width="1920" height="1206">
+  </image>
+  <image id="694" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561008737.jpg" width="1920" height="1206">
+  </image>
+  <image id="693" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561007139.jpg" width="1920" height="1206">
+  </image>
+  <image id="692" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561006637.jpg" width="1920" height="1206">
+  </image>
+  <image id="691" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561006132.jpg" width="1920" height="1206">
+  </image>
+  <image id="690" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561005101.jpg" width="1920" height="1206">
+  </image>
+  <image id="689" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561004600.jpg" width="1920" height="1206">
+  </image>
+  <image id="688" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634561004071.jpg" width="1920" height="1206">
+  </image>
+  <image id="687" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560988102.jpg" width="1920" height="1206">
+  </image>
+  <image id="686" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560986003.jpg" width="1920" height="1206">
+  </image>
+  <image id="685" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560985471.jpg" width="1920" height="1206">
+  </image>
+  <image id="684" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560984946.jpg" width="1920" height="1206">
+  </image>
+  <image id="683" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560980271.jpg" width="1920" height="1206">
+  </image>
+  <image id="682" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560978707.jpg" width="1920" height="1206">
+  </image>
+  <image id="681" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560978205.jpg" width="1920" height="1206">
+  </image>
+  <image id="680" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560977172.jpg" width="1920" height="1206">
+  </image>
+  <image id="679" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1634560971240.jpg" width="1920" height="1206">
+  </image>
+  <image id="678" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1346920580405.jpg" width="1280" height="804">
+  </image>
+  <image id="677" name="ftp/RD/1000_samples/c12114e3-d8d8-4eca-a271-b7a0a40e8e1f_1172359964228.jpg" width="1280" height="804">
+  </image>
+  <image id="676" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_9522177000480.jpg" width="1280" height="804">
+    <box label="Основной" occluded="0" source="manual" xtl="803.06" ytl="399.99" xbr="817.13" ybr="431.84" z_order="0">
+    </box>
+  </image>
+  <image id="675" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_8782217356847.jpg" width="1280" height="804">
+  </image>
+  <image id="674" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_8446517464709.jpg" width="1280" height="804">
+  </image>
+  <image id="673" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_5345194023799.jpg" width="1280" height="804">
+  </image>
+  <image id="672" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_5199346863041.jpg" width="1280" height="804">
+  </image>
+  <image id="671" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_3087050198474.jpg" width="1280" height="804">
+  </image>
+  <image id="670" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505678795.jpg" width="1920" height="1206">
+  </image>
+  <image id="669" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505622067.jpg" width="1920" height="1206">
+  </image>
+  <image id="668" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505618065.jpg" width="1920" height="1206">
+  </image>
+  <image id="667" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505617001.jpg" width="1920" height="1206">
+  </image>
+  <image id="666" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505577269.jpg" width="1920" height="1206">
+  </image>
+  <image id="665" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505575669.jpg" width="1920" height="1206">
+  </image>
+  <image id="664" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505563404.jpg" width="1920" height="1206">
+  </image>
+  <image id="663" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505554872.jpg" width="1920" height="1206">
+  </image>
+  <image id="662" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505554350.jpg" width="1920" height="1206">
+  </image>
+  <image id="661" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505554072.jpg" width="1920" height="1206">
+  </image>
+  <image id="660" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505550608.jpg" width="1920" height="1206">
+  </image>
+  <image id="659" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505549272.jpg" width="1920" height="1206">
+  </image>
+  <image id="658" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505546609.jpg" width="1920" height="1206">
+  </image>
+  <image id="657" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505544473.jpg" width="1920" height="1206">
+  </image>
+  <image id="656" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505544197.jpg" width="1920" height="1206">
+  </image>
+  <image id="655" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505543154.jpg" width="1920" height="1206">
+  </image>
+  <image id="654" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505542608.jpg" width="1920" height="1206">
+  </image>
+  <image id="653" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505535945.jpg" width="1920" height="1206">
+  </image>
+  <image id="549" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575147483.jpg" width="1920" height="1206">
+  </image>
+  <image id="548" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575146957.jpg" width="1920" height="1206">
+  </image>
+  <image id="547" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575146426.jpg" width="1920" height="1206">
+  </image>
+  <image id="546" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575139698.jpg" width="1920" height="1206">
+  </image>
+  <image id="545" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575137136.jpg" width="1920" height="1206">
+  </image>
+  <image id="544" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575133079.jpg" width="1920" height="1206">
+  </image>
+  <image id="543" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575130015.jpg" width="1920" height="1206">
+  </image>
+  <image id="542" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575125916.jpg" width="1920" height="1206">
+  </image>
+  <image id="541" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575124324.jpg" width="1920" height="1206">
+  </image>
+  <image id="540" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575123790.jpg" width="1920" height="1206">
+  </image>
+  <image id="539" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575122728.jpg" width="1920" height="1206">
+  </image>
+  <image id="538" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575120135.jpg" width="1920" height="1206">
+  </image>
+  <image id="537" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575116469.jpg" width="1920" height="1206">
+  </image>
+  <image id="536" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575107649.jpg" width="1920" height="1206">
+  </image>
+  <image id="535" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575009512.jpg" width="1920" height="1206">
+  </image>
+  <image id="534" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575002415.jpg" width="1920" height="1206">
+  </image>
+  <image id="533" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647574999329.jpg" width="1920" height="1206">
+  </image>
+  <image id="532" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647574995237.jpg" width="1920" height="1206">
+  </image>
+  <image id="531" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_8699919428556.jpg" width="1280" height="804">
+  </image>
+  <image id="951" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_5503076483026.jpg" width="1280" height="804">
+  </image>
+  <image id="950" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_3251570427341.jpg" width="1280" height="804">
+  </image>
+  <image id="949" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1857828411569.jpg" width="1280" height="804">
+    <box label="Основной" occluded="0" source="manual" xtl="964.28" ytl="294.92" xbr="996.27" ybr="365.30" z_order="0">
+    </box>
+  </image>
+  <image id="948" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586480129.jpg" width="1920" height="1206">
+  </image>
+  <image id="947" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586469688.jpg" width="1920" height="1206">
+  </image>
+  <image id="946" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586465497.jpg" width="1920" height="1206">
+  </image>
+  <image id="945" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586463928.jpg" width="1920" height="1206">
+  </image>
+  <image id="944" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586461829.jpg" width="1920" height="1206">
+  </image>
+  <image id="943" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586460265.jpg" width="1920" height="1206">
+  </image>
+  <image id="942" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586456567.jpg" width="1920" height="1206">
+  </image>
+  <image id="941" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586456036.jpg" width="1920" height="1206">
+  </image>
+  <image id="940" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586455535.jpg" width="1920" height="1206">
+  </image>
+  <image id="939" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586455034.jpg" width="1920" height="1206">
+  </image>
+  <image id="938" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586453467.jpg" width="1920" height="1206">
+  </image>
+  <image id="937" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586452406.jpg" width="1920" height="1206">
+  </image>
+  <image id="936" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586445612.jpg" width="1920" height="1206">
+  </image>
+  <image id="935" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586441919.jpg" width="1920" height="1206">
+  </image>
+  <image id="934" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586441385.jpg" width="1920" height="1206">
+  </image>
+  <image id="933" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586430893.jpg" width="1920" height="1206">
+  </image>
+  <image id="932" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586426734.jpg" width="1920" height="1206">
+  </image>
+  <image id="931" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586426232.jpg" width="1920" height="1206">
+  </image>
+  <image id="930" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586425702.jpg" width="1920" height="1206">
+  </image>
+  <image id="929" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586425200.jpg" width="1920" height="1206">
+  </image>
+  <image id="928" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586423099.jpg" width="1920" height="1206">
+  </image>
+  <image id="927" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586417813.jpg" width="1920" height="1206">
+  </image>
+  <image id="926" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586417308.jpg" width="1920" height="1206">
+  </image>
+  <image id="925" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586413678.jpg" width="1920" height="1206">
+  </image>
+  <image id="924" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586412141.jpg" width="1920" height="1206">
+  </image>
+  <image id="923" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586407386.jpg" width="1920" height="1206">
+  </image>
+  <image id="922" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586404822.jpg" width="1920" height="1206">
+  </image>
+  <image id="921" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586403255.jpg" width="1920" height="1206">
+  </image>
+  <image id="920" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586362765.jpg" width="1920" height="1206">
+  </image>
+  <image id="919" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586360147.jpg" width="1920" height="1206">
+  </image>
+  <image id="918" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586358565.jpg" width="1920" height="1206">
+  </image>
+  <image id="917" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586358035.jpg" width="1920" height="1206">
+  </image>
+  <image id="916" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586356999.jpg" width="1920" height="1206">
+  </image>
+  <image id="915" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586350179.jpg" width="1920" height="1206">
+  </image>
+  <image id="914" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586298630.jpg" width="1920" height="1206">
+  </image>
+  <image id="913" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586280184.jpg" width="1920" height="1206">
+  </image>
+  <image id="912" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586278133.jpg" width="1920" height="1206">
+  </image>
+  <image id="911" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586270691.jpg" width="1920" height="1206">
+  </image>
+  <image id="910" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586269662.jpg" width="1920" height="1206">
+  </image>
+  <image id="909" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586246819.jpg" width="1920" height="1206">
+  </image>
+  <image id="908" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586246284.jpg" width="1920" height="1206">
+  </image>
+  <image id="907" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586245749.jpg" width="1920" height="1206">
+  </image>
+  <image id="906" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586235259.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="382.24" ytl="587.18" xbr="398.24" ybr="633.17" z_order="0">
+    </box>
+  </image>
+  <image id="905" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586230564.jpg" width="1920" height="1206">
+  </image>
+  <image id="904" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586225902.jpg" width="1920" height="1206">
+  </image>
+  <image id="903" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586221808.jpg" width="1920" height="1206">
+  </image>
+  <image id="902" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586219745.jpg" width="1920" height="1206">
+  </image>
+  <image id="901" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586203063.jpg" width="1920" height="1206">
+  </image>
+  <image id="900" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586202030.jpg" width="1920" height="1206">
+  </image>
+  <image id="899" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586192701.jpg" width="1920" height="1206">
+  </image>
+  <image id="898" name="ftp/RD/1000_samples/f41e068c-41df-4db8-b5b4-8b1b5ad6feae_1647586192172.jpg" width="1920" height="1206">
+  </image>
+  <image id="897" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_7714848504264.jpg" width="1280" height="804">
+  </image>
+  <image id="896" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_5497702161463.jpg" width="1280" height="804">
+  </image>
+  <image id="895" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_3467377052203.jpg" width="1280" height="804">
+  </image>
+  <image id="894" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_2395544628380.jpg" width="1280" height="804">
+  </image>
+  <image id="893" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597062632.jpg" width="1920" height="1206">
+  </image>
+  <image id="892" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597062365.jpg" width="1920" height="1206">
+  </image>
+  <image id="891" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597061566.jpg" width="1920" height="1206">
+  </image>
+  <image id="890" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597060765.jpg" width="1920" height="1206">
+  </image>
+  <image id="889" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597060500.jpg" width="1920" height="1206">
+  </image>
+  <image id="888" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597059704.jpg" width="1920" height="1206">
+  </image>
+  <image id="887" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597055965.jpg" width="1920" height="1206">
+  </image>
+  <image id="886" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597055167.jpg" width="1920" height="1206">
+  </image>
+  <image id="885" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597047170.jpg" width="1920" height="1206">
+  </image>
+  <image id="884" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597046904.jpg" width="1920" height="1206">
+  </image>
+  <image id="883" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597043704.jpg" width="1920" height="1206">
+  </image>
+  <image id="882" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597043435.jpg" width="1920" height="1206">
+  </image>
+  <image id="881" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597043170.jpg" width="1920" height="1206">
+  </image>
+  <image id="880" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597042636.jpg" width="1920" height="1206">
+  </image>
+  <image id="879" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597042105.jpg" width="1920" height="1206">
+  </image>
+  <image id="878" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597040770.jpg" width="1920" height="1206">
+  </image>
+  <image id="877" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597040237.jpg" width="1920" height="1206">
+  </image>
+  <image id="876" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597038633.jpg" width="1920" height="1206">
+  </image>
+  <image id="875" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597038105.jpg" width="1920" height="1206">
+  </image>
+  <image id="874" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597037838.jpg" width="1920" height="1206">
+  </image>
+  <image id="873" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597037303.jpg" width="1920" height="1206">
+  </image>
+  <image id="872" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597035970.jpg" width="1920" height="1206">
+  </image>
+  <image id="871" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597035704.jpg" width="1920" height="1206">
+  </image>
+  <image id="870" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597027705.jpg" width="1920" height="1206">
+  </image>
+  <image id="869" name="ftp/RD/1000_samples/e62fb034-aedf-4a3e-924a-63bf2e81ff13_1647597027437.jpg" width="1920" height="1206">
+  </image>
+  <image id="530" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_7848093527137.jpg" width="1280" height="804">
+  </image>
+  <image id="529" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_5607286391701.jpg" width="1280" height="804">
+  </image>
+  <image id="528" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_3666211268705.jpg" width="1280" height="804">
+  </image>
+  <image id="527" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590315936.jpg" width="1920" height="1206">
+  </image>
+  <image id="526" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590295841.jpg" width="1920" height="1206">
+  </image>
+  <image id="525" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590289638.jpg" width="1920" height="1206">
+  </image>
+  <image id="524" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590284875.jpg" width="1920" height="1206">
+  </image>
+  <image id="523" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590282777.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="474.80" ytl="560.02" xbr="487.08" ybr="585.46" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1047.15" ytl="575.29" xbr="1067.98" ybr="631.76" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="659.17" ytl="338.40" xbr="680.71" ybr="398.83" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="308.09" ytl="669.44" xbr="318.50" ybr="696.44" z_order="0">
+    </box>
+  </image>
+  <image id="522" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590280209.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="690.04" ytl="519.33" xbr="702.00" ybr="550.57" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="896.00" ytl="643.14" xbr="908.34" ybr="674.77" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="544.50" ytl="605.91" xbr="553.61" ybr="625.26" z_order="0">
+    </box>
+  </image>
+  <image id="521" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590279708.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="696.11" ytl="537.36" xbr="707.71" ybr="564.37" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="885.90" ytl="650.19" xbr="895.72" ybr="677.42" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="556.05" ytl="612.39" xbr="565.16" ybr="631.17" z_order="0">
+    </box>
+  </image>
+  <image id="520" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590276545.jpg" width="1920" height="1206">
+  </image>
+  <image id="519" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590274510.jpg" width="1920" height="1206">
+  </image>
+  <image id="518" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590273003.jpg" width="1920" height="1206">
+  </image>
+  <image id="517" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590270878.jpg" width="1920" height="1206">
+  </image>
+  <image id="516" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590269841.jpg" width="1920" height="1206">
+  </image>
+  <image id="515" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590268780.jpg" width="1920" height="1206">
+  </image>
+  <image id="514" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590267209.jpg" width="1920" height="1206">
+  </image>
+  <image id="513" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590263009.jpg" width="1920" height="1206">
+  </image>
+  <image id="512" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590260911.jpg" width="1920" height="1206">
+  </image>
+  <image id="511" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590256810.jpg" width="1920" height="1206">
+  </image>
+  <image id="510" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590254747.jpg" width="1920" height="1206">
+  </image>
+  <image id="509" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590253744.jpg" width="1920" height="1206">
+  </image>
+  <image id="508" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590250112.jpg" width="1920" height="1206">
+  </image>
+  <image id="507" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590241277.jpg" width="1920" height="1206">
+  </image>
+  <image id="506" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590238644.jpg" width="1920" height="1206">
+  </image>
+  <image id="505" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590237612.jpg" width="1920" height="1206">
+  </image>
+  <image id="504" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590235610.jpg" width="1920" height="1206">
+  </image>
+  <image id="503" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590229912.jpg" width="1920" height="1206">
+  </image>
+  <image id="502" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590229380.jpg" width="1920" height="1206">
+  </image>
+  <image id="501" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590227810.jpg" width="1920" height="1206">
+  </image>
+  <image id="500" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590227279.jpg" width="1920" height="1206">
+  </image>
+  <image id="499" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590225179.jpg" width="1920" height="1206">
+  </image>
+  <image id="498" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590224647.jpg" width="1920" height="1206">
+  </image>
+  <image id="497" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590221513.jpg" width="1920" height="1206">
+  </image>
+  <image id="496" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590217814.jpg" width="1920" height="1206">
+  </image>
+  <image id="495" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590215714.jpg" width="1920" height="1206">
+  </image>
+  <image id="494" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590214682.jpg" width="1920" height="1206">
+  </image>
+  <image id="493" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590210548.jpg" width="1920" height="1206">
+  </image>
+  <image id="492" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590209515.jpg" width="1920" height="1206">
+  </image>
+  <image id="491" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590208514.jpg" width="1920" height="1206">
+  </image>
+  <image id="490" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590207513.jpg" width="1920" height="1206">
+  </image>
+  <image id="489" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590206480.jpg" width="1920" height="1206">
+  </image>
+  <image id="488" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590205447.jpg" width="1920" height="1206">
+  </image>
+  <image id="487" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590203382.jpg" width="1920" height="1206">
+  </image>
+  <image id="486" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590189084.jpg" width="1920" height="1206">
+  </image>
+  <image id="485" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590182982.jpg" width="1920" height="1206">
+  </image>
+  <image id="484" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590180019.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="982.60" ytl="657.05" xbr="991.17" ybr="681.69" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590161986.jpg" width="1920" height="1206">
+  </image>
+  <image id="482" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590147957.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="895.36" ytl="226.91" xbr="926.56" ybr="306.09" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1233.40" ytl="523.80" xbr="1263.39" ybr="605.11" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590134159.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="776.33" ytl="526.21" xbr="787.57" ybr="555.14" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="897.44" ytl="645.51" xbr="909.93" ybr="676.53" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590131092.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="835.63" ytl="645.13" xbr="845.67" ybr="669.90" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="737.11" ytl="547.99" xbr="746.04" ybr="571.20" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590125956.jpg" width="1920" height="1206">
+  </image>
+  <image id="478" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590118961.jpg" width="1920" height="1206">
+  </image>
+  <image id="477" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590116960.jpg" width="1920" height="1206">
+  </image>
+  <image id="476" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590114958.jpg" width="1920" height="1206">
+  </image>
+  <image id="475" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590104260.jpg" width="1920" height="1206">
+  </image>
+  <image id="474" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590088063.jpg" width="1920" height="1206">
+  </image>
+  <image id="473" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590077964.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1170.89" ytl="503.41" xbr="1200.93" ybr="580.05" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="630.32" ytl="197.80" xbr="663.11" ybr="281.78" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590057565.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="690.27" ytl="465.83" xbr="702.27" ybr="503.25" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="119.73" ytl="645.94" xbr="135.03" ybr="680.76" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="952.59" ytl="607.58" xbr="967.54" ybr="646.64" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590056564.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="932.08" ytl="616.71" xbr="945.91" ybr="651.53" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="691.66" ytl="487.48" xbr="704.39" ybr="522.52" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590053467.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="697.29" ytl="536.40" xbr="706.89" ybr="562.74" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="885.98" ytl="636.68" xbr="896.21" ybr="664.02" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="282.82" ytl="663.03" xbr="292.47" ybr="688.74" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590052465.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="699.01" ytl="549.63" xbr="708.31" ybr="574.55" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="873.35" ytl="641.24" xbr="884.29" ybr="666.69" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="312.56" ytl="666.36" xbr="323.40" ybr="691.43" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590044201.jpg" width="1920" height="1206">
+  </image>
+  <image id="467" name="ftp/RD/1000_samples/398fa1cc-e0f5-4000-8c8e-f4642a1a709a_1647590042167.jpg" width="1920" height="1206">
+  </image>
+  <image id="466" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_9178808326754.jpg" width="1280" height="804">
+  </image>
+  <image id="465" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_5985382567631.jpg" width="1280" height="804">
+  </image>
+  <image id="464" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_5591040987424.jpg" width="1280" height="804">
+  </image>
+  <image id="463" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_3172007099908.jpg" width="1280" height="804">
+  </image>
+  <image id="462" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860072876.jpg" width="1920" height="1206">
+  </image>
+  <image id="461" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860071864.jpg" width="1920" height="1206">
+  </image>
+  <image id="460" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860069818.jpg" width="1920" height="1206">
+  </image>
+  <image id="459" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860063079.jpg" width="1920" height="1206">
+  </image>
+  <image id="458" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860061031.jpg" width="1920" height="1206">
+  </image>
+  <image id="457" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860056430.jpg" width="1920" height="1206">
+  </image>
+  <image id="456" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860055929.jpg" width="1920" height="1206">
+  </image>
+  <image id="455" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860030629.jpg" width="1920" height="1206">
+  </image>
+  <image id="454" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860023894.jpg" width="1920" height="1206">
+  </image>
+  <image id="453" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860023361.jpg" width="1920" height="1206">
+  </image>
+  <image id="452" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860022344.jpg" width="1920" height="1206">
+  </image>
+  <image id="451" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860021814.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="1585.20" ytl="458.67" xbr="1627.43" ybr="576.72" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="300.51" ytl="423.64" xbr="347.53" ybr="542.65" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860021281.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="1372.90" ytl="557.14" xbr="1399.78" ybr="657.91" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="531.32" ytl="538.52" xbr="559.15" ybr="616.26" z_order="0">
+    </box>
+  </image>
+  <image id="449" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860018698.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="793.21" ytl="667.01" xbr="804.78" ybr="697.10" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="1119.12" ytl="685.14" xbr="1131.47" ybr="716.00" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860014528.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1220.68" ytl="636.12" xbr="1239.96" ybr="688.57" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1128.88" ytl="517.71" xbr="1145.08" ybr="570.94" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860011372.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1010.82" ytl="626.55" xbr="1018.86" ybr="651.46" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1057.70" ytl="680.65" xbr="1067.34" ybr="705.56" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860010334.jpg" width="1920" height="1206">
+  </image>
+  <image id="445" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860009828.jpg" width="1920" height="1206">
+  </image>
+  <image id="444" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860007749.jpg" width="1920" height="1206">
+  </image>
+  <image id="443" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647860007247.jpg" width="1920" height="1206">
+  </image>
+  <image id="442" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859994180.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1173.24" ytl="649.95" xbr="1185.77" ybr="683.69" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="638.70" ytl="641.01" xbr="650.94" ybr="674.44" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859993245.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1129.31" ytl="665.08" xbr="1139.72" ybr="693.24" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="688.39" ytl="659.22" xbr="697.77" ybr="686.28" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859989185.jpg" width="1920" height="1206">
+  </image>
+  <image id="439" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859987149.jpg" width="1920" height="1206">
+  </image>
+  <image id="438" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859970137.jpg" width="1920" height="1206">
+  </image>
+  <image id="437" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859969098.jpg" width="1920" height="1206">
+  </image>
+  <image id="436" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859960539.jpg" width="1920" height="1206">
+  </image>
+  <image id="435" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859959432.jpg" width="1920" height="1206">
+  </image>
+  <image id="434" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859959162.jpg" width="1920" height="1206">
+  </image>
+  <image id="433" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859955060.jpg" width="1920" height="1206">
+  </image>
+  <image id="432" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859954507.jpg" width="1920" height="1206">
+  </image>
+  <image id="431" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859954226.jpg" width="1920" height="1206">
+  </image>
+  <image id="430" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859950734.jpg" width="1920" height="1206">
+  </image>
+  <image id="429" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859947545.jpg" width="1920" height="1206">
+  </image>
+  <image id="428" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859945159.jpg" width="1920" height="1206">
+  </image>
+  <image id="427" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859944638.jpg" width="1920" height="1206">
+  </image>
+  <image id="426" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859944102.jpg" width="1920" height="1206">
+  </image>
+  <image id="425" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859943033.jpg" width="1920" height="1206">
+  </image>
+  <image id="424" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859920280.jpg" width="1920" height="1206">
+  </image>
+  <image id="423" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859919773.jpg" width="1920" height="1206">
+  </image>
+  <image id="422" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859917702.jpg" width="1920" height="1206">
+  </image>
+  <image id="421" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859915153.jpg" width="1920" height="1206">
+  </image>
+  <image id="420" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859901333.jpg" width="1920" height="1206">
+  </image>
+  <image id="419" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859879810.jpg" width="1920" height="1206">
+  </image>
+  <image id="418" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859879278.jpg" width="1920" height="1206">
+  </image>
+  <image id="417" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859876696.jpg" width="1920" height="1206">
+  </image>
+  <image id="416" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859874183.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="295.77" ytl="528.99" xbr="333.36" ybr="604.97" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1346.00" ytl="436.41" xbr="1386.31" ybr="543.51" z_order="0">
+    </box>
+    <box label="Светофор на другой дороге" occluded="0" source="manual" xtl="1122.29" ytl="525.29" xbr="1154.56" ybr="604.16" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859871154.jpg" width="1920" height="1206">
+    <box label="Светофор на другой дороге" occluded="0" source="manual" xtl="585.01" ytl="616.07" xbr="600.75" ybr="653.56" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="674.26" ytl="602.76" xbr="689.69" ybr="644.80" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="106.85" ytl="600.10" xbr="127.40" ybr="642.31" z_order="0">
+    </box>
+    <box label="Светофор на другой дороге" occluded="0" source="manual" xtl="1005.27" ytl="658.65" xbr="1020.54" ybr="691.51" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859863346.jpg" width="1920" height="1206">
+  </image>
+  <image id="413" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859860767.jpg" width="1920" height="1206">
+  </image>
+  <image id="412" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859859255.jpg" width="1920" height="1206">
+  </image>
+  <image id="411" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859858213.jpg" width="1920" height="1206">
+  </image>
+  <image id="410" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859857712.jpg" width="1920" height="1206">
+  </image>
+  <image id="409" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859853581.jpg" width="1920" height="1206">
+  </image>
+  <image id="408" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859852012.jpg" width="1920" height="1206">
+  </image>
+  <image id="407" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859846370.jpg" width="1920" height="1206">
+  </image>
+  <image id="406" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859845330.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1492.80" ytl="528.90" xbr="1519.46" ybr="601.66" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="508.74" ytl="582.93" xbr="526.33" ybr="631.99" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859844789.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="606.70" ytl="629.26" xbr="620.60" ybr="668.70" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1319.65" ytl="595.52" xbr="1339.64" ybr="648.83" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859844287.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1232.24" ytl="631.11" xbr="1247.05" ybr="674.62" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="661.42" ytl="658.98" xbr="674.28" ybr="689.83" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859843784.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1171.55" ytl="641.20" xbr="1186.55" ybr="678.41" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="702.13" ytl="662.22" xbr="711.78" ybr="691.95" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859841246.jpg" width="1920" height="1206">
+  </image>
+  <image id="401" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859838653.jpg" width="1920" height="1206">
+  </image>
+  <image id="400" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859831479.jpg" width="1920" height="1206">
+  </image>
+  <image id="399" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859830438.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="202.92" ytl="489.72" xbr="245.31" ybr="576.89" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859829933.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="442.02" ytl="564.39" xbr="468.08" ybr="623.71" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1607.88" ytl="515.07" xbr="1641.48" ybr="604.65" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859828889.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1259.55" ytl="633.06" xbr="1275.75" ybr="676.10" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="641.16" ytl="637.68" xbr="655.55" ybr="671.47" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859827382.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1109.15" ytl="674.14" xbr="1120.40" ybr="700.12" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="744.22" ytl="682.51" xbr="753.92" ybr="704.46" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859826851.jpg" width="1920" height="1206">
+  </image>
+  <image id="394" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859823791.jpg" width="1920" height="1206">
+  </image>
+  <image id="393" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1647859821220.jpg" width="1920" height="1206">
+  </image>
+  <image id="392" name="ftp/RD/1000_samples/354712cb-c914-4dba-ad1a-282f462ed08c_1377309511650.jpg" width="1280" height="804">
+  </image>
+  <image id="391" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_8264778383275.jpg" width="1280" height="804">
+  </image>
+  <image id="390" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_5829826975906.jpg" width="1280" height="804">
+  </image>
+  <image id="389" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_4246396202094.jpg" width="1280" height="804">
+  </image>
+  <image id="388" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_2916194819774.jpg" width="1280" height="804">
+  </image>
+  <image id="387" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_2348656034966.jpg" width="1280" height="804">
+  </image>
+  <image id="386" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494334249.jpg" width="1920" height="1206">
+  </image>
+  <image id="385" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494323364.jpg" width="1920" height="1206">
+  </image>
+  <image id="384" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494319333.jpg" width="1920" height="1206">
+  </image>
+  <image id="383" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494315302.jpg" width="1920" height="1206">
+  </image>
+  <image id="382" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494279994.jpg" width="1920" height="1206">
+  </image>
+  <image id="381" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494278976.jpg" width="1920" height="1206">
+  </image>
+  <image id="380" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494276940.jpg" width="1920" height="1206">
+  </image>
+  <image id="379" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494275416.jpg" width="1920" height="1206">
+  </image>
+  <image id="378" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494274906.jpg" width="1920" height="1206">
+  </image>
+  <image id="377" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494273338.jpg" width="1920" height="1206">
+  </image>
+  <image id="376" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494272827.jpg" width="1920" height="1206">
+  </image>
+  <image id="375" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494270798.jpg" width="1920" height="1206">
+  </image>
+  <image id="374" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494265154.jpg" width="1920" height="1206">
+  </image>
+  <image id="373" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494261592.jpg" width="1920" height="1206">
+  </image>
+  <image id="372" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494259558.jpg" width="1920" height="1206">
+  </image>
+  <image id="371" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494258036.jpg" width="1920" height="1206">
+  </image>
+  <image id="370" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494257013.jpg" width="1920" height="1206">
+  </image>
+  <image id="369" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494249379.jpg" width="1920" height="1206">
+  </image>
+  <image id="368" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494243273.jpg" width="1920" height="1206">
+  </image>
+  <image id="367" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494242734.jpg" width="1920" height="1206">
+  </image>
+  <image id="366" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494242218.jpg" width="1920" height="1206">
+  </image>
+  <image id="365" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494241715.jpg" width="1920" height="1206">
+  </image>
+  <image id="364" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494241169.jpg" width="1920" height="1206">
+  </image>
+  <image id="363" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494240141.jpg" width="1920" height="1206">
+  </image>
+  <image id="362" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494239637.jpg" width="1920" height="1206">
+  </image>
+  <image id="361" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494227427.jpg" width="1920" height="1206">
+  </image>
+  <image id="360" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494225853.jpg" width="1920" height="1206">
+  </image>
+  <image id="359" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494223820.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="6.00" ytl="819.49" xbr="26.60" ybr="865.58" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494214270.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1260.64" ytl="758.39" xbr="1277.86" ybr="793.94" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494190389.jpg" width="1920" height="1206">
+  </image>
+  <image id="356" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494186320.jpg" width="1920" height="1206">
+  </image>
+  <image id="355" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494166121.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="678.70" ytl="762.99" xbr="691.82" ybr="796.20" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494165106.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="677.16" ytl="791.09" xbr="690.66" ybr="824.65" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494154930.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1119.66" ytl="684.37" xbr="1133.93" ybr="717.92" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1187.16" ytl="756.88" xbr="1221.87" ybr="798.53" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494154418.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1174.02" ytl="765.57" xbr="1204.56" ybr="803.05" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1112.92" ytl="697.53" xbr="1126.81" ybr="729.93" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494153403.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1148.84" ytl="783.27" xbr="1168.74" ybr="809.31" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1095.27" ytl="722.82" xbr="1104.57" ybr="749.04" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494151879.jpg" width="1920" height="1206">
+  </image>
+  <image id="349" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494149330.jpg" width="1920" height="1206">
+  </image>
+  <image id="348" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494148312.jpg" width="1920" height="1206">
+  </image>
+  <image id="347" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494137043.jpg" width="1920" height="1206">
+  </image>
+  <image id="346" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494134492.jpg" width="1920" height="1206">
+  </image>
+  <image id="345" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494133475.jpg" width="1920" height="1206">
+  </image>
+  <image id="344" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494132456.jpg" width="1920" height="1206">
+  </image>
+  <image id="343" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494122268.jpg" width="1920" height="1206">
+  </image>
+  <image id="342" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494118171.jpg" width="1920" height="1206">
+  </image>
+  <image id="341" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494115120.jpg" width="1920" height="1206">
+  </image>
+  <image id="340" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494112063.jpg" width="1920" height="1206">
+  </image>
+  <image id="339" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494111045.jpg" width="1920" height="1206">
+  </image>
+  <image id="338" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494110535.jpg" width="1920" height="1206">
+  </image>
+  <image id="337" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494107993.jpg" width="1920" height="1206">
+  </image>
+  <image id="336" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494107480.jpg" width="1920" height="1206">
+  </image>
+  <image id="335" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494104941.jpg" width="1920" height="1206">
+  </image>
+  <image id="334" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1647494103924.jpg" width="1920" height="1206">
+  </image>
+  <image id="276" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933058274.jpg" width="1920" height="1206">
+  </image>
+  <image id="275" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933051524.jpg" width="1920" height="1206">
+  </image>
+  <image id="274" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933030711.jpg" width="1920" height="1206">
+  </image>
+  <image id="273" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933030204.jpg" width="1920" height="1206">
+  </image>
+  <image id="272" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933024991.jpg" width="1920" height="1206">
+  </image>
+  <image id="271" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_7700843101177.jpg" width="1280" height="804">
+  </image>
+  <image id="270" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_3676013425305.jpg" width="1280" height="804">
+  </image>
+  <image id="269" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1805959298699.jpg" width="1280" height="804">
+  </image>
+  <image id="268" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596406142.jpg" width="1920" height="1206">
+  </image>
+  <image id="267" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596400075.jpg" width="1920" height="1206">
+  </image>
+  <image id="266" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596396043.jpg" width="1920" height="1206">
+  </image>
+  <image id="265" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596385142.jpg" width="1920" height="1206">
+  </image>
+  <image id="264" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596381112.jpg" width="1920" height="1206">
+  </image>
+  <image id="263" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596373080.jpg" width="1920" height="1206">
+  </image>
+  <image id="262" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596354948.jpg" width="1920" height="1206">
+  </image>
+  <image id="261" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596302887.jpg" width="1920" height="1206">
+  </image>
+  <image id="260" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596290688.jpg" width="1920" height="1206">
+  </image>
+  <image id="259" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596290156.jpg" width="1920" height="1206">
+  </image>
+  <image id="258" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596277558.jpg" width="1920" height="1206">
+  </image>
+  <image id="652" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505533810.jpg" width="1920" height="1206">
+  </image>
+  <image id="651" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505509009.jpg" width="1920" height="1206">
+  </image>
+  <image id="650" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505508747.jpg" width="1920" height="1206">
+  </image>
+  <image id="649" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505508481.jpg" width="1920" height="1206">
+  </image>
+  <image id="648" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505507944.jpg" width="1920" height="1206">
+  </image>
+  <image id="647" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505506348.jpg" width="1920" height="1206">
+  </image>
+  <image id="646" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505506081.jpg" width="1920" height="1206">
+  </image>
+  <image id="645" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505505282.jpg" width="1920" height="1206">
+  </image>
+  <image id="644" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505504199.jpg" width="1920" height="1206">
+  </image>
+  <image id="643" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505490082.jpg" width="1920" height="1206">
+  </image>
+  <image id="642" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505489815.jpg" width="1920" height="1206">
+  </image>
+  <image id="641" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505487948.jpg" width="1920" height="1206">
+  </image>
+  <image id="640" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505476206.jpg" width="1920" height="1206">
+  </image>
+  <image id="639" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505475684.jpg" width="1920" height="1206">
+  </image>
+  <image id="638" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505475156.jpg" width="1920" height="1206">
+  </image>
+  <image id="637" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505473551.jpg" width="1920" height="1206">
+  </image>
+  <image id="636" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505473283.jpg" width="1920" height="1206">
+  </image>
+  <image id="635" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505471951.jpg" width="1920" height="1206">
+  </image>
+  <image id="634" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505471684.jpg" width="1920" height="1206">
+  </image>
+  <image id="633" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505471416.jpg" width="1920" height="1206">
+  </image>
+  <image id="632" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505466083.jpg" width="1920" height="1206">
+  </image>
+  <image id="631" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505465285.jpg" width="1920" height="1206">
+  </image>
+  <image id="630" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505439685.jpg" width="1920" height="1206">
+  </image>
+  <image id="629" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505438084.jpg" width="1920" height="1206">
+  </image>
+  <image id="628" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505437553.jpg" width="1920" height="1206">
+  </image>
+  <image id="627" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505436218.jpg" width="1920" height="1206">
+  </image>
+  <image id="626" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505435156.jpg" width="1920" height="1206">
+  </image>
+  <image id="625" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505434886.jpg" width="1920" height="1206">
+  </image>
+  <image id="624" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505434352.jpg" width="1920" height="1206">
+  </image>
+  <image id="623" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505434086.jpg" width="1920" height="1206">
+  </image>
+  <image id="622" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505433022.jpg" width="1920" height="1206">
+  </image>
+  <image id="621" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1647505431686.jpg" width="1920" height="1206">
+  </image>
+  <image id="620" name="ftp/RD/1000_samples/a5ca72f0-20d3-4f41-ac82-e5b8af316e53_1232789120798.jpg" width="1280" height="804">
+  </image>
+  <image id="619" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_6675471508765.jpg" width="1280" height="804">
+  </image>
+  <image id="618" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_6513251664629.jpg" width="1280" height="804">
+  </image>
+  <image id="617" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_5251152334941.jpg" width="1280" height="804">
+  </image>
+  <image id="616" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_5220582895184.jpg" width="1280" height="804">
+  </image>
+  <image id="615" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_4077264045043.jpg" width="1280" height="804">
+  </image>
+  <image id="614" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1995607032387.jpg" width="1280" height="804">
+  </image>
+  <image id="613" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859819766.jpg" width="1920" height="1206">
+  </image>
+  <image id="612" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859819257.jpg" width="1920" height="1206">
+  </image>
+  <image id="611" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859806307.jpg" width="1920" height="1206">
+  </image>
+  <image id="610" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859802681.jpg" width="1920" height="1206">
+  </image>
+  <image id="609" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859802158.jpg" width="1920" height="1206">
+  </image>
+  <image id="608" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859800243.jpg" width="1920" height="1206">
+  </image>
+  <image id="607" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859761798.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="986.69" ytl="688.74" xbr="996.97" ybr="717.35" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="700.28" ytl="705.49" xbr="708.64" ybr="724.77" z_order="0">
+    </box>
+  </image>
+  <image id="606" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859761290.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="714.16" ytl="706.74" xbr="721.56" ybr="728.27" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="983.51" ytl="694.53" xbr="993.15" ybr="722.17" z_order="0">
+    </box>
+  </image>
+  <image id="605" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859758212.jpg" width="1920" height="1206">
+  </image>
+  <image id="604" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859738548.jpg" width="1920" height="1206">
+  </image>
+  <image id="603" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859735928.jpg" width="1920" height="1206">
+  </image>
+  <image id="602" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859733747.jpg" width="1920" height="1206">
+  </image>
+  <image id="601" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859732982.jpg" width="1920" height="1206">
+  </image>
+  <image id="600" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859708617.jpg" width="1920" height="1206">
+  </image>
+  <image id="599" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859708116.jpg" width="1920" height="1206">
+  </image>
+  <image id="598" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859671808.jpg" width="1920" height="1206">
+  </image>
+  <image id="597" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859669696.jpg" width="1920" height="1206">
+  </image>
+  <image id="596" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859664210.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="562.25" ytl="669.72" xbr="575.42" ybr="703.43" z_order="0">
+    </box>
+  </image>
+  <image id="595" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859662185.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="599.20" ytl="682.10" xbr="608.87" ybr="709.44" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1195.92" ytl="506.03" xbr="1238.39" ybr="624.40" z_order="0">
+    </box>
+  </image>
+  <image id="594" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859637582.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1051.81" ytl="621.31" xbr="1074.63" ybr="678.84" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="660.86" ytl="681.38" xbr="669.37" ybr="703.92" z_order="0">
+    </box>
+  </image>
+  <image id="593" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859622405.jpg" width="1920" height="1206">
+  </image>
+  <image id="592" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859621400.jpg" width="1920" height="1206">
+  </image>
+  <image id="591" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859614267.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1516.15" ytl="296.62" xbr="1575.86" ybr="447.87" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="33.50" ytl="447.23" xbr="70.96" ybr="532.13" z_order="0">
+    </box>
+  </image>
+  <image id="590" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859610216.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1096.24" ytl="561.86" xbr="1120.90" ybr="623.17" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="388.83" ytl="574.61" xbr="406.66" ybr="618.49" z_order="0">
+    </box>
+  </image>
+  <image id="589" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859581529.jpg" width="1920" height="1206">
+  </image>
+  <image id="588" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859579947.jpg" width="1920" height="1206">
+  </image>
+  <image id="587" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859576828.jpg" width="1920" height="1206">
+  </image>
+  <image id="586" name="ftp/RD/1000_samples/97e2560b-6d04-4d01-bbb0-157526249fad_1647859550170.jpg" width="1920" height="1206">
+  </image>
+  <image id="585" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_7898194909007.jpg" width="1280" height="804">
+  </image>
+  <image id="584" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_5631404761132.jpg" width="1280" height="804">
+  </image>
+  <image id="583" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_4563340325123.jpg" width="1280" height="804">
+  </image>
+  <image id="582" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575269180.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1189.01" ytl="650.92" xbr="1205.67" ybr="684.71" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="268.71" ytl="697.60" xbr="290.30" ybr="730.38" z_order="0">
+    </box>
+  </image>
+  <image id="581" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575267097.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1051.94" ytl="700.15" xbr="1065.11" ybr="732.73" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="331.87" ytl="729.35" xbr="345.26" ybr="763.09" z_order="0">
+    </box>
+  </image>
+  <image id="580" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575266564.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1023.59" ytl="701.37" xbr="1035.80" ybr="732.55" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="350.49" ytl="722.71" xbr="362.41" ybr="752.93" z_order="0">
+    </box>
+  </image>
+  <image id="579" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575266032.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1017.62" ytl="725.85" xbr="1030.12" ybr="755.48" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="394.71" ytl="742.18" xbr="407.48" ybr="771.11" z_order="0">
+    </box>
+  </image>
+  <image id="578" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575260831.jpg" width="1920" height="1206">
+  </image>
+  <image id="577" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575257114.jpg" width="1920" height="1206">
+  </image>
+  <image id="576" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575256581.jpg" width="1920" height="1206">
+  </image>
+  <image id="575" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575250324.jpg" width="1920" height="1206">
+  </image>
+  <image id="574" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575243599.jpg" width="1920" height="1206">
+  </image>
+  <image id="573" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575239936.jpg" width="1920" height="1206">
+  </image>
+  <image id="572" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575238908.jpg" width="1920" height="1206">
+  </image>
+  <image id="571" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575236346.jpg" width="1920" height="1206">
+  </image>
+  <image id="570" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575235314.jpg" width="1920" height="1206">
+  </image>
+  <image id="569" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575233216.jpg" width="1920" height="1206">
+  </image>
+  <image id="568" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575224832.jpg" width="1920" height="1206">
+  </image>
+  <image id="567" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575219613.jpg" width="1920" height="1206">
+  </image>
+  <image id="566" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575203396.jpg" width="1920" height="1206">
+  </image>
+  <image id="565" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575198733.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1199.09" ytl="695.28" xbr="1210.61" ybr="727.15" z_order="0">
+    </box>
+  </image>
+  <image id="564" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575197195.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1129.10" ytl="710.97" xbr="1137.40" ybr="736.19" z_order="0">
+    </box>
+  </image>
+  <image id="563" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575196678.jpg" width="1920" height="1206">
+  </image>
+  <image id="562" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575196150.jpg" width="1920" height="1206">
+  </image>
+  <image id="561" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575188756.jpg" width="1920" height="1206">
+  </image>
+  <image id="560" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575186133.jpg" width="1920" height="1206">
+  </image>
+  <image id="559" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575182497.jpg" width="1920" height="1206">
+  </image>
+  <image id="558" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575181435.jpg" width="1920" height="1206">
+  </image>
+  <image id="557" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575164124.jpg" width="1920" height="1206">
+  </image>
+  <image id="556" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575163095.jpg" width="1920" height="1206">
+  </image>
+  <image id="555" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575162565.jpg" width="1920" height="1206">
+  </image>
+  <image id="554" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575156841.jpg" width="1920" height="1206">
+  </image>
+  <image id="553" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575151681.jpg" width="1920" height="1206">
+  </image>
+  <image id="552" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575150082.jpg" width="1920" height="1206">
+  </image>
+  <image id="551" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575148515.jpg" width="1920" height="1206">
+  </image>
+  <image id="550" name="ftp/RD/1000_samples/7cb24eb3-cba2-4a90-a482-5dfea935f034_1647575147988.jpg" width="1920" height="1206">
+  </image>
+  <image id="257" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596273358.jpg" width="1920" height="1206">
+  </image>
+  <image id="256" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596272324.jpg" width="1920" height="1206">
+  </image>
+  <image id="255" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596270725.jpg" width="1920" height="1206">
+  </image>
+  <image id="254" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596264460.jpg" width="1920" height="1206">
+  </image>
+  <image id="253" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596260759.jpg" width="1920" height="1206">
+  </image>
+  <image id="252" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596259193.jpg" width="1920" height="1206">
+  </image>
+  <image id="251" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596258692.jpg" width="1920" height="1206">
+  </image>
+  <image id="250" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596258159.jpg" width="1920" height="1206">
+  </image>
+  <image id="249" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596255062.jpg" width="1920" height="1206">
+  </image>
+  <image id="248" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596252959.jpg" width="1920" height="1206">
+  </image>
+  <image id="247" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596251895.jpg" width="1920" height="1206">
+  </image>
+  <image id="246" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596246093.jpg" width="1920" height="1206">
+  </image>
+  <image id="245" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596245559.jpg" width="1920" height="1206">
+  </image>
+  <image id="244" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596245291.jpg" width="1920" height="1206">
+  </image>
+  <image id="243" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596242628.jpg" width="1920" height="1206">
+  </image>
+  <image id="242" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596241563.jpg" width="1920" height="1206">
+  </image>
+  <image id="241" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596240760.jpg" width="1920" height="1206">
+  </image>
+  <image id="240" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596240495.jpg" width="1920" height="1206">
+  </image>
+  <image id="239" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596239594.jpg" width="1920" height="1206">
+  </image>
+  <image id="238" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596236395.jpg" width="1920" height="1206">
+  </image>
+  <image id="237" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596232695.jpg" width="1920" height="1206">
+  </image>
+  <image id="236" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596231661.jpg" width="1920" height="1206">
+  </image>
+  <image id="235" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596231129.jpg" width="1920" height="1206">
+  </image>
+  <image id="234" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596228530.jpg" width="1920" height="1206">
+  </image>
+  <image id="233" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596226063.jpg" width="1920" height="1206">
+  </image>
+  <image id="232" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596224029.jpg" width="1920" height="1206">
+  </image>
+  <image id="231" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596219942.jpg" width="1920" height="1206">
+  </image>
+  <image id="230" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596215940.jpg" width="1920" height="1206">
+  </image>
+  <image id="229" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596209166.jpg" width="1920" height="1206">
+  </image>
+  <image id="228" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596208134.jpg" width="1920" height="1206">
+  </image>
+  <image id="227" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596204034.jpg" width="1920" height="1206">
+  </image>
+  <image id="226" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596197837.jpg" width="1920" height="1206">
+  </image>
+  <image id="225" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596196804.jpg" width="1920" height="1206">
+  </image>
+  <image id="224" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596195771.jpg" width="1920" height="1206">
+  </image>
+  <image id="223" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596194765.jpg" width="1920" height="1206">
+  </image>
+  <image id="222" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596193205.jpg" width="1920" height="1206">
+  </image>
+  <image id="221" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596186951.jpg" width="1920" height="1206">
+  </image>
+  <image id="220" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596183172.jpg" width="1920" height="1206">
+  </image>
+  <image id="219" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596179072.jpg" width="1920" height="1206">
+  </image>
+  <image id="218" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596176037.jpg" width="1920" height="1206">
+  </image>
+  <image id="217" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596173970.jpg" width="1920" height="1206">
+  </image>
+  <image id="216" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596165038.jpg" width="1920" height="1206">
+  </image>
+  <image id="215" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596162970.jpg" width="1920" height="1206">
+  </image>
+  <image id="214" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596143973.jpg" width="1920" height="1206">
+  </image>
+  <image id="213" name="ftp/RD/1000_samples/12924ef2-ff32-469b-b860-c525d8f43145_1647596141942.jpg" width="1920" height="1206">
+  </image>
+  <image id="212" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_7070891717285.jpg" width="1280" height="804">
+  </image>
+  <image id="211" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_6932198709325.jpg" width="1280" height="804">
+  </image>
+  <image id="210" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_6771968702948.jpg" width="1280" height="804">
+  </image>
+  <image id="209" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_4748554784374.jpg" width="1280" height="804">
+  </image>
+  <image id="208" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_3561162476374.jpg" width="1280" height="804">
+  </image>
+  <image id="207" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_3183693777379.jpg" width="1280" height="804">
+  </image>
+  <image id="206" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941670096.jpg" width="1920" height="1206">
+  </image>
+  <image id="205" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941655790.jpg" width="1920" height="1206">
+  </image>
+  <image id="204" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941654992.jpg" width="1920" height="1206">
+  </image>
+  <image id="203" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941654440.jpg" width="1920" height="1206">
+  </image>
+  <image id="202" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941651350.jpg" width="1920" height="1206">
+  </image>
+  <image id="201" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941649812.jpg" width="1920" height="1206">
+  </image>
+  <image id="200" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941648809.jpg" width="1920" height="1206">
+  </image>
+  <image id="199" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941647243.jpg" width="1920" height="1206">
+  </image>
+  <image id="198" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941646740.jpg" width="1920" height="1206">
+  </image>
+  <image id="197" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941646203.jpg" width="1920" height="1206">
+  </image>
+  <image id="196" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941644659.jpg" width="1920" height="1206">
+  </image>
+  <image id="195" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941644132.jpg" width="1920" height="1206">
+  </image>
+  <image id="194" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941643626.jpg" width="1920" height="1206">
+  </image>
+  <image id="193" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941641018.jpg" width="1920" height="1206">
+  </image>
+  <image id="192" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941639955.jpg" width="1920" height="1206">
+  </image>
+  <image id="191" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941638886.jpg" width="1920" height="1206">
+  </image>
+  <image id="190" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941638382.jpg" width="1920" height="1206">
+  </image>
+  <image id="189" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941607541.jpg" width="1920" height="1206">
+  </image>
+  <image id="188" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941600790.jpg" width="1920" height="1206">
+  </image>
+  <image id="187" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941600288.jpg" width="1920" height="1206">
+  </image>
+  <image id="186" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941599257.jpg" width="1920" height="1206">
+  </image>
+  <image id="185" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941598220.jpg" width="1920" height="1206">
+  </image>
+  <image id="184" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941596148.jpg" width="1920" height="1206">
+  </image>
+  <image id="183" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941595077.jpg" width="1920" height="1206">
+  </image>
+  <image id="182" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941593506.jpg" width="1920" height="1206">
+  </image>
+  <image id="181" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941592441.jpg" width="1920" height="1206">
+  </image>
+  <image id="180" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941590332.jpg" width="1920" height="1206">
+  </image>
+  <image id="179" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941589300.jpg" width="1920" height="1206">
+  </image>
+  <image id="178" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941572425.jpg" width="1920" height="1206">
+  </image>
+  <image id="177" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941571354.jpg" width="1920" height="1206">
+  </image>
+  <image id="176" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941567177.jpg" width="1920" height="1206">
+  </image>
+  <image id="175" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941560956.jpg" width="1920" height="1206">
+  </image>
+  <image id="174" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941560438.jpg" width="1920" height="1206">
+  </image>
+  <image id="173" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941559383.jpg" width="1920" height="1206">
+  </image>
+  <image id="172" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941556252.jpg" width="1920" height="1206">
+  </image>
+  <image id="171" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941546027.jpg" width="1920" height="1206">
+  </image>
+  <image id="170" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941545523.jpg" width="1920" height="1206">
+  </image>
+  <image id="169" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941544990.jpg" width="1920" height="1206">
+  </image>
+  <image id="168" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941543955.jpg" width="1920" height="1206">
+  </image>
+  <image id="167" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941542912.jpg" width="1920" height="1206">
+  </image>
+  <image id="166" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941529984.jpg" width="1920" height="1206">
+  </image>
+  <image id="165" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941521165.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1008.71" ytl="640.87" xbr="1036.48" ybr="714.18" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="362.48" ytl="745.02" xbr="379.15" ybr="781.58" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941520128.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="967.73" ytl="703.87" xbr="986.24" ybr="755.24" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="454.98" ytl="759.84" xbr="469.15" ybr="790.69" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941502455.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="440.71" ytl="753.25" xbr="460.35" ybr="798.25" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941449222.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="474.26" ytl="794.78" xbr="487.21" ybr="826.26" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1166.10" ytl="635.09" xbr="1194.33" ybr="712.85" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941447215.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1093.85" ytl="702.02" xbr="1113.85" ybr="755.34" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="585.84" ytl="801.33" xbr="596.63" ybr="826.81" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941446210.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1049.14" ytl="731.27" xbr="1064.88" ybr="776.63" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="611.68" ytl="809.87" xbr="622.28" ybr="835.53" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941429207.jpg" width="1920" height="1206">
+  </image>
+  <image id="158" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941428674.jpg" width="1920" height="1206">
+  </image>
+  <image id="157" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941427133.jpg" width="1920" height="1206">
+  </image>
+  <image id="156" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941426064.jpg" width="1920" height="1206">
+  </image>
+  <image id="155" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941425029.jpg" width="1920" height="1206">
+  </image>
+  <image id="154" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941424526.jpg" width="1920" height="1206">
+  </image>
+  <image id="153" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941410056.jpg" width="1920" height="1206">
+  </image>
+  <image id="152" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941408490.jpg" width="1920" height="1206">
+  </image>
+  <image id="151" name="ftp/RD/1000_samples/0f12279a-f923-4c89-adce-1bbd30c015d8_1647941393478.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1106.64" ytl="500.34" xbr="1150.69" ybr="618.98" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="230.12" ytl="796.35" xbr="248.44" ybr="833.95" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_7169215450852.jpg" width="1280" height="804">
+  </image>
+  <image id="149" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_6693628003655.jpg" width="1280" height="804">
+  </image>
+  <image id="148" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944328592.jpg" width="1920" height="1206">
+  </image>
+  <image id="147" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944326494.jpg" width="1920" height="1206">
+  </image>
+  <image id="146" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944324953.jpg" width="1920" height="1206">
+  </image>
+  <image id="145" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944324421.jpg" width="1920" height="1206">
+  </image>
+  <image id="144" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944323920.jpg" width="1920" height="1206">
+  </image>
+  <image id="143" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944322855.jpg" width="1920" height="1206">
+  </image>
+  <image id="142" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944318722.jpg" width="1920" height="1206">
+  </image>
+  <image id="141" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944318199.jpg" width="1920" height="1206">
+  </image>
+  <image id="140" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944317121.jpg" width="1920" height="1206">
+  </image>
+  <image id="139" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944313988.jpg" width="1920" height="1206">
+  </image>
+  <image id="138" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944311887.jpg" width="1920" height="1206">
+  </image>
+  <image id="137" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944311386.jpg" width="1920" height="1206">
+  </image>
+  <image id="136" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944306721.jpg" width="1920" height="1206">
+  </image>
+  <image id="135" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944306207.jpg" width="1920" height="1206">
+  </image>
+  <image id="134" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944303621.jpg" width="1920" height="1206">
+  </image>
+  <image id="133" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944303091.jpg" width="1920" height="1206">
+  </image>
+  <image id="132" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944295256.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1377.90" ytl="215.16" xbr="1423.95" ybr="329.79" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="256.67" ytl="373.50" xbr="273.73" ybr="415.28" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944294253.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1169.38" ytl="332.92" xbr="1189.82" ybr="395.02" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="410.37" ytl="395.62" xbr="422.09" ybr="429.66" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944293725.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1113.57" ytl="362.85" xbr="1130.74" ybr="412.84" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="456.35" ytl="405.43" xbr="469.82" ybr="435.98" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944293190.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1074.11" ytl="390.28" xbr="1088.42" ybr="432.32" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="494.80" ytl="418.05" xbr="505.25" ybr="445.43" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944291390.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="991.40" ytl="424.92" xbr="1002.36" ybr="453.93" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="567.76" ytl="435.41" xbr="576.49" ybr="457.06" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944290389.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="586.80" ytl="441.32" xbr="595.18" ybr="462.21" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="963.28" ytl="435.72" xbr="971.65" ybr="460.83" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944289387.jpg" width="1920" height="1206">
+  </image>
+  <image id="125" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944287325.jpg" width="1920" height="1206">
+  </image>
+  <image id="124" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944285288.jpg" width="1920" height="1206">
+  </image>
+  <image id="123" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944284255.jpg" width="1920" height="1206">
+  </image>
+  <image id="122" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944274128.jpg" width="1920" height="1206">
+  </image>
+  <image id="121" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944266924.jpg" width="1920" height="1206">
+  </image>
+  <image id="120" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944264291.jpg" width="1920" height="1206">
+  </image>
+  <image id="119" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944259659.jpg" width="1920" height="1206">
+  </image>
+  <image id="118" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944251355.jpg" width="1920" height="1206">
+  </image>
+  <image id="117" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944250828.jpg" width="1920" height="1206">
+  </image>
+  <image id="116" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944250326.jpg" width="1920" height="1206">
+  </image>
+  <image id="115" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944248225.jpg" width="1920" height="1206">
+  </image>
+  <image id="114" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944246157.jpg" width="1920" height="1206">
+  </image>
+  <image id="113" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944245632.jpg" width="1920" height="1206">
+  </image>
+  <image id="112" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944245093.jpg" width="1920" height="1206">
+  </image>
+  <image id="111" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944244066.jpg" width="1920" height="1206">
+  </image>
+  <image id="110" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944241490.jpg" width="1920" height="1206">
+  </image>
+  <image id="109" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944239425.jpg" width="1920" height="1206">
+  </image>
+  <image id="108" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944236829.jpg" width="1920" height="1206">
+  </image>
+  <image id="107" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944236324.jpg" width="1920" height="1206">
+  </image>
+  <image id="106" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944222790.jpg" width="1920" height="1206">
+  </image>
+  <image id="105" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944222288.jpg" width="1920" height="1206">
+  </image>
+  <image id="104" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944219658.jpg" width="1920" height="1206">
+  </image>
+  <image id="103" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944211293.jpg" width="1920" height="1206">
+  </image>
+  <image id="102" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944210760.jpg" width="1920" height="1206">
+  </image>
+  <image id="101" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944210258.jpg" width="1920" height="1206">
+  </image>
+  <image id="100" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944200169.jpg" width="1920" height="1206">
+  </image>
+  <image id="99" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944176129.jpg" width="1920" height="1206">
+  </image>
+  <image id="98" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944171095.jpg" width="1920" height="1206">
+  </image>
+  <image id="97" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944170076.jpg" width="1920" height="1206">
+  </image>
+  <image id="96" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944153061.jpg" width="1920" height="1206">
+  </image>
+  <image id="95" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944152532.jpg" width="1920" height="1206">
+  </image>
+  <image id="94" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944151496.jpg" width="1920" height="1206">
+  </image>
+  <image id="93" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944146831.jpg" width="1920" height="1206">
+  </image>
+  <image id="92" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944141103.jpg" width="1920" height="1206">
+  </image>
+  <image id="91" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944139029.jpg" width="1920" height="1206">
+  </image>
+  <image id="90" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944136960.jpg" width="1920" height="1206">
+  </image>
+  <image id="89" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944132261.jpg" width="1920" height="1206">
+  </image>
+  <image id="88" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944130695.jpg" width="1920" height="1206">
+  </image>
+  <image id="87" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944122462.jpg" width="1920" height="1206">
+  </image>
+  <image id="86" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944121928.jpg" width="1920" height="1206">
+  </image>
+  <image id="85" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944120896.jpg" width="1920" height="1206">
+  </image>
+  <image id="84" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944120392.jpg" width="1920" height="1206">
+  </image>
+  <image id="83" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944119860.jpg" width="1920" height="1206">
+  </image>
+  <image id="82" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944113097.jpg" width="1920" height="1206">
+  </image>
+  <image id="81" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944112584.jpg" width="1920" height="1206">
+  </image>
+  <image id="80" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944110993.jpg" width="1920" height="1206">
+  </image>
+  <image id="79" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944110455.jpg" width="1920" height="1206">
+  </image>
+  <image id="78" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944108386.jpg" width="1920" height="1206">
+  </image>
+  <image id="77" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944107853.jpg" width="1920" height="1206">
+  </image>
+  <image id="76" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944105786.jpg" width="1920" height="1206">
+  </image>
+  <image id="75" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944098223.jpg" width="1920" height="1206">
+  </image>
+  <image id="74" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944081190.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1076.31" ytl="301.33" xbr="1110.30" ybr="401.30" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="530.36" ytl="403.94" xbr="542.71" ybr="435.28" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944069000.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1002.73" ytl="367.71" xbr="1026.79" ybr="427.03" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="579.78" ytl="400.47" xbr="590.40" ybr="424.84" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944066955.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="990.77" ytl="418.46" xbr="1006.84" ybr="458.96" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944064919.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="897.64" ytl="445.62" xbr="910.12" ybr="475.01" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944059822.jpg" width="1920" height="1206">
+  </image>
+  <image id="69" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944057792.jpg" width="1920" height="1206">
+  </image>
+  <image id="68" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944056226.jpg" width="1920" height="1206">
+  </image>
+  <image id="67" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944052624.jpg" width="1920" height="1206">
+  </image>
+  <image id="66" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944050589.jpg" width="1920" height="1206">
+  </image>
+  <image id="65" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944039389.jpg" width="1920" height="1206">
+  </image>
+  <image id="64" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944033289.jpg" width="1920" height="1206">
+  </image>
+  <image id="63" name="ftp/RD/1000_samples/0e9d5e75-0efd-437d-908e-211e6234b843_1647944031253.jpg" width="1920" height="1206">
+  </image>
+  <image id="62" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_9388166992506.jpg" width="1280" height="804">
+  </image>
+  <image id="61" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_8572186114564.jpg" width="1280" height="804">
+  </image>
+  <image id="60" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_8526096613975.jpg" width="1280" height="804">
+  </image>
+  <image id="59" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_6419463482863.jpg" width="1280" height="804">
+  </image>
+  <image id="58" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_4435536131047.jpg" width="1280" height="804">
+  </image>
+  <image id="57" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_4136536246392.jpg" width="1280" height="804">
+  </image>
+  <image id="56" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587596480.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1129.79" ytl="585.05" xbr="1143.67" ybr="625.60" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="546.96" ytl="625.22" xbr="555.91" ybr="649.32" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587592789.jpg" width="1920" height="1206">
+  </image>
+  <image id="54" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587589141.jpg" width="1920" height="1206">
+  </image>
+  <image id="53" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587586229.jpg" width="1920" height="1206">
+  </image>
+  <image id="52" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587584161.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="359.78" ytl="589.94" xbr="386.77" ybr="646.19" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587580199.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="610.28" ytl="615.30" xbr="623.14" ybr="646.15" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1457.45" ytl="305.45" xbr="1503.83" ybr="439.81" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587534611.jpg" width="1920" height="1206">
+  </image>
+  <image id="49" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587533046.jpg" width="1920" height="1206">
+  </image>
+  <image id="48" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587531980.jpg" width="1920" height="1206">
+  </image>
+  <image id="47" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587528848.jpg" width="1920" height="1206">
+  </image>
+  <image id="46" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587528316.jpg" width="1920" height="1206">
+  </image>
+  <image id="45" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587527251.jpg" width="1920" height="1206">
+  </image>
+  <image id="44" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587523589.jpg" width="1920" height="1206">
+  </image>
+  <image id="43" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587517761.jpg" width="1920" height="1206">
+  </image>
+  <image id="42" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587517229.jpg" width="1920" height="1206">
+  </image>
+  <image id="333" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1481499269961.jpg" width="1280" height="804">
+  </image>
+  <image id="332" name="ftp/RD/1000_samples/275c6e7e-4669-49e5-a5b9-999f3299c9e8_1336757199904.jpg" width="1280" height="804">
+  </image>
+  <image id="331" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_5400307467626.jpg" width="1280" height="804">
+  </image>
+  <image id="330" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_4850377406561.jpg" width="1280" height="804">
+  </image>
+  <image id="329" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_2863724345165.jpg" width="1280" height="804">
+  </image>
+  <image id="328" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_2164949022502.jpg" width="1280" height="804">
+  </image>
+  <image id="327" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603554426.jpg" width="1920" height="1206">
+  </image>
+  <image id="326" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603543293.jpg" width="1920" height="1206">
+  </image>
+  <image id="325" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603515676.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1165.89" ytl="495.58" xbr="1195.88" ybr="565.00" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603509565.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1125.67" ytl="613.99" xbr="1136.39" ybr="643.98" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603505472.jpg" width="1920" height="1206">
+  </image>
+  <image id="322" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603504471.jpg" width="1920" height="1206">
+  </image>
+  <image id="321" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603503440.jpg" width="1920" height="1206">
+  </image>
+  <image id="320" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603501424.jpg" width="1920" height="1206">
+  </image>
+  <image id="319" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603500412.jpg" width="1920" height="1206">
+  </image>
+  <image id="318" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603499375.jpg" width="1920" height="1206">
+  </image>
+  <image id="317" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603494226.jpg" width="1920" height="1206">
+  </image>
+  <image id="316" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603491173.jpg" width="1920" height="1206">
+  </image>
+  <image id="315" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603473126.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="910.55" ytl="619.57" xbr="920.51" ybr="644.00" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1398.74" ytl="312.54" xbr="1454.46" ybr="469.76" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603469201.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1098.25" ytl="583.35" xbr="1112.14" ybr="624.54" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603450385.jpg" width="1920" height="1206">
+  </image>
+  <image id="312" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603449340.jpg" width="1920" height="1206">
+  </image>
+  <image id="311" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603447792.jpg" width="1920" height="1206">
+  </image>
+  <image id="310" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603447272.jpg" width="1920" height="1206">
+  </image>
+  <image id="309" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603443124.jpg" width="1920" height="1206">
+  </image>
+  <image id="308" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1647603430140.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="663.37" ytl="563.72" xbr="688.83" ybr="619.73" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="ftp/RD/1000_samples/1f6c67b5-5df3-48d3-9367-1f675863d581_1079097886527.jpg" width="1280" height="804">
+  </image>
+  <image id="306" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_7357538329327.jpg" width="1280" height="804">
+  </image>
+  <image id="305" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_5567258728976.jpg" width="1280" height="804">
+  </image>
+  <image id="304" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_5197563472654.jpg" width="1280" height="804">
+  </image>
+  <image id="303" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_4102381742043.jpg" width="1280" height="804">
+  </image>
+  <image id="302" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_2827596505970.jpg" width="1280" height="804">
+  </image>
+  <image id="301" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933240516.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="1148.67" ytl="895.58" xbr="1173.11" ybr="958.34" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933237476.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="444.78" ytl="927.18" xbr="463.01" ybr="961.96" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1418.95" ytl="769.80" xbr="1468.94" ybr="877.77" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933236474.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1225.87" ytl="857.71" xbr="1254.53" ybr="931.02" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="477.41" ytl="948.82" xbr="491.10" ybr="979.62" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933200421.jpg" width="1920" height="1206">
+  </image>
+  <image id="297" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933192033.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1659.44" ytl="535.43" xbr="1733.08" ybr="722.50" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933190027.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="466.30" ytl="858.66" xbr="494.42" ybr="911.96" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1140.62" ytl="862.92" xbr="1170.05" ybr="929.01" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933189497.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1096.17" ytl="900.25" xbr="1121.16" ybr="958.10" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="505.57" ytl="898.49" xbr="531.60" ybr="946.71" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933185855.jpg" width="1920" height="1206">
+  </image>
+  <image id="293" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933184816.jpg" width="1920" height="1206">
+  </image>
+  <image id="292" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933184284.jpg" width="1920" height="1206">
+  </image>
+  <image id="291" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933183275.jpg" width="1920" height="1206">
+  </image>
+  <image id="290" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933182743.jpg" width="1920" height="1206">
+  </image>
+  <image id="289" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933170813.jpg" width="1920" height="1206">
+  </image>
+  <image id="288" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933121127.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="729.39" ytl="937.32" xbr="738.54" ybr="969.91" z_order="0">
+    </box>
+    <box label="Основной" occluded="0" source="manual" xtl="1111.97" ytl="863.91" xbr="1135.30" ybr="927.22" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933104054.jpg" width="1920" height="1206">
+  </image>
+  <image id="286" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933092756.jpg" width="1920" height="1206">
+  </image>
+  <image id="285" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933091187.jpg" width="1920" height="1206">
+  </image>
+  <image id="284" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933086427.jpg" width="1920" height="1206">
+  </image>
+  <image id="283" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933083333.jpg" width="1920" height="1206">
+  </image>
+  <image id="282" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933078659.jpg" width="1920" height="1206">
+  </image>
+  <image id="281" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933078126.jpg" width="1920" height="1206">
+  </image>
+  <image id="280" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933076046.jpg" width="1920" height="1206">
+  </image>
+  <image id="279" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933060878.jpg" width="1920" height="1206">
+  </image>
+  <image id="278" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933059845.jpg" width="1920" height="1206">
+  </image>
+  <image id="277" name="ftp/RD/1000_samples/1d6a77a9-fbd3-4741-ac14-e7ce72db2a93_1647933059339.jpg" width="1920" height="1206">
+  </image>
+  <image id="41" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587516698.jpg" width="1920" height="1206">
+  </image>
+  <image id="40" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587507174.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="539.51" ytl="600.16" xbr="556.87" ybr="639.69" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587506141.jpg" width="1920" height="1206">
+    <box label="Дублирующий" occluded="0" source="manual" xtl="550.48" ytl="612.22" xbr="566.01" ybr="647.57" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587504114.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1456.70" ytl="268.64" xbr="1521.00" ybr="428.92" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="594.32" ytl="623.11" xbr="608.20" ybr="653.70" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587500079.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1305.69" ytl="396.67" xbr="1347.15" ybr="509.54" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="623.40" ytl="625.29" xbr="636.90" ybr="655.19" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587495915.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1038.28" ytl="574.72" xbr="1051.94" ybr="614.36" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="659.59" ytl="635.80" xbr="668.96" ybr="657.45" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587495385.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1010.61" ytl="584.84" xbr="1022.39" ybr="623.44" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="656.22" ytl="638.12" xbr="664.26" ybr="657.76" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587494848.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="985.92" ytl="591.93" xbr="997.81" ybr="626.64" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="652.24" ytl="635.36" xbr="659.53" ybr="653.65" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587494321.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="979.00" ytl="599.75" xbr="990.19" ybr="632.53" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="663.05" ytl="635.75" xbr="670.12" ybr="654.35" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587493290.jpg" width="1920" height="1206">
+  </image>
+  <image id="31" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587492223.jpg" width="1920" height="1206">
+  </image>
+  <image id="30" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587491689.jpg" width="1920" height="1206">
+  </image>
+  <image id="29" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587490060.jpg" width="1920" height="1206">
+  </image>
+  <image id="28" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587488991.jpg" width="1920" height="1206">
+  </image>
+  <image id="27" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587487928.jpg" width="1920" height="1206">
+  </image>
+  <image id="26" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587485332.jpg" width="1920" height="1206">
+  </image>
+  <image id="25" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587484798.jpg" width="1920" height="1206">
+  </image>
+  <image id="24" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587482149.jpg" width="1920" height="1206">
+  </image>
+  <image id="23" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587481631.jpg" width="1920" height="1206">
+  </image>
+  <image id="22" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587480598.jpg" width="1920" height="1206">
+  </image>
+  <image id="21" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587472209.jpg" width="1920" height="1206">
+  </image>
+  <image id="20" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587471677.jpg" width="1920" height="1206">
+  </image>
+  <image id="19" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587467977.jpg" width="1920" height="1206">
+  </image>
+  <image id="18" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587460750.jpg" width="1920" height="1206">
+  </image>
+  <image id="17" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587456658.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1142.95" ytl="511.46" xbr="1197.38" ybr="581.44" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="851.39" ytl="621.89" xbr="873.71" ybr="649.12" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587454029.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1046.87" ytl="609.78" xbr="1075.00" ybr="644.33" z_order="0">
+    </box>
+    <box label="Дублирующий" occluded="0" source="manual" xtl="885.36" ytl="645.67" xbr="902.24" ybr="666.83" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587453495.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1037.90" ytl="617.20" xbr="1061.47" ybr="646.93" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587451928.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1020.62" ytl="637.64" xbr="1039.11" ybr="661.21" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587445672.jpg" width="1920" height="1206">
+  </image>
+  <image id="12" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587443575.jpg" width="1920" height="1206">
+  </image>
+  <image id="11" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587443071.jpg" width="1920" height="1206">
+  </image>
+  <image id="10" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587442537.jpg" width="1920" height="1206">
+  </image>
+  <image id="9" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587442009.jpg" width="1920" height="1206">
+  </image>
+  <image id="8" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587441507.jpg" width="1920" height="1206">
+  </image>
+  <image id="7" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587440442.jpg" width="1920" height="1206">
+  </image>
+  <image id="6" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587380042.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1299.41" ytl="563.50" xbr="1336.62" ybr="617.93" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587378975.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1266.96" ytl="591.03" xbr="1294.92" ybr="633.46" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587376338.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1329.41" ytl="627.30" xbr="1348.75" ybr="653.53" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587374274.jpg" width="1920" height="1206">
+    <box label="Основной" occluded="0" source="manual" xtl="1573.52" ytl="649.79" xbr="1590.24" ybr="671.64" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587366114.jpg" width="1920" height="1206">
+  </image>
+  <image id="1" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587364947.jpg" width="1920" height="1206">
+  </image>
+  <image id="0" name="ftp/RD/1000_samples/0302bada-804c-48f8-b3d8-3dad1cc66805_1647587360891.jpg" width="1920" height="1206">
+  </image>
+</annotations>
