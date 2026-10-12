@@ -104,7 +104,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("data/annotations/updated_annotations.json"),
+        default=Path("task2/data/annotations/updated_annotations.json"),
         help="Output annotation file.",
     )
 

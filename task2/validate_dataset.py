@@ -189,7 +189,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "--report",
         type=Path,
-        default=Path("data/report/dataset_report.json"),
+        default=Path("task2/data/report/dataset_report.json"),
         help="Report file.",
     )
 

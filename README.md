@@ -1,9 +1,9 @@
-# Тестовое задание Python Data Engineering
+# Инструменты для работы с данными в области CV
 
 ## Структура проекта
 
-```
-test_task/
+```bash
+computer-vision-dataset-tools/
 │
 ├── README.md
 ├── requirements.txt
@@ -73,7 +73,7 @@ pip install -r requirements.txt
 Запуск
 
 ```bash
-python statistics.py ./data/
+python task1/statistics.py task1/data/
 ```
 
 ---
@@ -85,7 +85,7 @@ python statistics.py ./data/
 Запуск
 
 ```bash
-python class_statistics.py ./data/
+python task1/class_statistics.py task1/data/
 ```
 
 ---
@@ -97,7 +97,7 @@ python class_statistics.py ./data/
 Запуск
 
 ```bash
-python shape_statistics.py ./data/
+python task1/shape_statistics.py task1/data/
 ```
 
 ---
@@ -114,7 +114,7 @@ python shape_statistics.py ./data/
 Запуск
 
 ```bash
-python modify_xml.py ./data/
+python task1/modify_xml.py task1/data/
 ```
 
 ---
@@ -129,7 +129,7 @@ python modify_xml.py ./data/
 
 Создает новую структуру директорий
 
-```
+```bash
 images/
     cat/
     dog/
@@ -139,16 +139,16 @@ images/
 
 Обновляет поле `file_name` и сохраняет
 
-```
-data/annotations/updated_annotations.json
+```bash
+task2/data/annotations/updated_annotations.json
 ```
 
 Запуск
 
 ```bash
-python restructure_dataset.py \
-    --images ./data/images \
-    --annotations ./data/annotations/instances_train.json
+python task2/restructure_dataset.py \
+    --images task2/data/images \
+    --annotations task2/data/annotations/instances_train.json
 ```
 
 ---
@@ -164,16 +164,16 @@ python restructure_dataset.py \
 
 Создает файл
 
-```
-data/report/dataset_report.json
+```bash
+task2/data/report/dataset_report.json
 ```
 
 Запуск
 
 ```bash
-python validate_dataset.py \
-    --images ./data/images \
-    --annotations ./data/annotations/updated_annotations.json
+python task2/validate_dataset.py \
+    --images task2/data/images \
+    --annotations task2/data/annotations/updated_annotations.json
 ```
 
 ---
@@ -187,9 +187,9 @@ python validate_dataset.py \
 Запуск
 
 ```bash
-python coco_to_yolo.py \
-    --images ./data/ \
-    --annotations ./data/annotations/updated_annotations.json
+python task2/coco_to_yolo.py \
+    --images task2/data/ \
+    --annotations task2/data/annotations/updated_annotations.json
 ```
 
 ---
@@ -198,7 +198,7 @@ python coco_to_yolo.py \
 
 Task 1
 
-```
+```bash
 annotations_modified.xml
 annotations-2_modified.xml
 annotations-3_modified.xml
@@ -206,7 +206,7 @@ annotations-3_modified.xml
 
 Task 2
 
-```
+```bash
 updated_annotations.json
 
 dataset_report.json
